@@ -3,4 +3,5 @@ These are small registry entries to create context menu items for opening PowerS
 
 64-bit is for using the 64-bit version of PowerShell, located in the SysWOW64 directory instead of System32. The 32-bit version will still work on 64-bit systems.
 
+## Screenshot(s)
 ![alt tag](https://raw.githubusercontent.com/NoodleChump/powershell-context-items/master/usage-screenshots.png)
